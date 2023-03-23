@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/first-deploy/static/css/main.cd4371fd.css",
-    "main.js": "/first-deploy/static/js/main.3e512b29.js",
+    "main.css": "/first-deploy/static/css/main.94f3438e.css",
+    "main.js": "/first-deploy/static/js/main.b931b32e.js",
     "static/js/787.6fa06986.chunk.js": "/first-deploy/static/js/787.6fa06986.chunk.js",
+    "static/media/HTML-CSS-and-Javascript-for-Web-Developers.svg": "/first-deploy/static/media/HTML-CSS-and-Javascript-for-Web-Developers.43caed486e809ef9d8aade6ecc099350.svg",
+    "static/media/React-basics.svg": "/first-deploy/static/media/React-basics.3474b512dd57c904aa84d74a407fc989.svg",
+    "static/media/Programming-with-JavaScript.svg": "/first-deploy/static/media/Programming-with-JavaScript.07c07d3a8c568249d449a4e638aad324.svg",
+    "static/media/Introduction-to-Front-End-Development.svg": "/first-deploy/static/media/Introduction-to-Front-End-Development.806c84f90818b86c67015dd120d81b4f.svg",
+    "static/media/Version-Control.svg": "/first-deploy/static/media/Version-Control.2dd9ab24f5cbc0a6ddd08a92a962959b.svg",
+    "static/media/HTML-and-CSS-in-depth.svg": "/first-deploy/static/media/HTML-and-CSS-in-depth.c684832078a2b7cd5fff05d8bcbf1622.svg",
     "static/media/cv.pdf": "/first-deploy/static/media/cv.4d75d0b2eadcf3c222f0.pdf",
     "static/media/wordpress.png": "/first-deploy/static/media/wordpress.a999d3f62780020d5402.png",
     "static/media/little.jpg": "/first-deploy/static/media/little.facb437e15b0aba88340.jpg",
@@ -37,12 +43,12 @@
     "static/media/illustrator_tool.png": "/first-deploy/static/media/illustrator_tool.a9be3495f6fc8f43d551.png",
     "static/media/html_tool.png": "/first-deploy/static/media/html_tool.916521afb9e06c3091df.png",
     "index.html": "/first-deploy/index.html",
-    "main.cd4371fd.css.map": "/first-deploy/static/css/main.cd4371fd.css.map",
-    "main.3e512b29.js.map": "/first-deploy/static/js/main.3e512b29.js.map",
+    "main.94f3438e.css.map": "/first-deploy/static/css/main.94f3438e.css.map",
+    "main.b931b32e.js.map": "/first-deploy/static/js/main.b931b32e.js.map",
     "787.6fa06986.chunk.js.map": "/first-deploy/static/js/787.6fa06986.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4371fd.css",
-    "static/js/main.3e512b29.js"
+    "static/css/main.94f3438e.css",
+    "static/js/main.b931b32e.js"
   ]
 }
