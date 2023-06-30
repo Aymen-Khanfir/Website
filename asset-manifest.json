@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/first-deploy/static/css/main.94f3438e.css",
-    "main.js": "/first-deploy/static/js/main.275e7b1d.js",
-    "static/js/787.6fa06986.chunk.js": "/first-deploy/static/js/787.6fa06986.chunk.js",
-    "static/media/netflix.png": "/first-deploy/static/media/netflix.b9431f5e1118afaa4b95.png",
-    "static/media/project1.png": "/first-deploy/static/media/project1.39f2a9b1f7620daf0844.png",
-    "static/media/project3.png": "/first-deploy/static/media/project3.7e392c42db1c93956e32.png",
-    "static/media/project2.png": "/first-deploy/static/media/project2.d24817c5378d4858251c.png",
+    "main.js": "/first-deploy/static/js/main.709cd5dc.js",
+    "static/js/787.0363f32d.chunk.js": "/first-deploy/static/js/787.0363f32d.chunk.js",
+    "static/media/netflix_clone.png": "/first-deploy/static/media/netflix_clone.b9431f5e1118afaa4b95.png",
+    "static/media/chinese_restaurant.png": "/first-deploy/static/media/chinese_restaurant.39f2a9b1f7620daf0844.png",
+    "static/media/hair_salon.png": "/first-deploy/static/media/hair_salon.7e392c42db1c93956e32.png",
+    "static/media/youtube_clone.png": "/first-deploy/static/media/youtube_clone.d24817c5378d4858251c.png",
     "static/media/HTML-CSS-and-Javascript-for-Web-Developers.svg": "/first-deploy/static/media/HTML-CSS-and-Javascript-for-Web-Developers.43caed486e809ef9d8aade6ecc099350.svg",
     "static/media/React-basics.svg": "/first-deploy/static/media/React-basics.3474b512dd57c904aa84d74a407fc989.svg",
     "static/media/Programming-with-JavaScript.svg": "/first-deploy/static/media/Programming-with-JavaScript.07c07d3a8c568249d449a4e638aad324.svg",
     "static/media/Introduction-to-Front-End-Development.svg": "/first-deploy/static/media/Introduction-to-Front-End-Development.806c84f90818b86c67015dd120d81b4f.svg",
     "static/media/Version-Control.svg": "/first-deploy/static/media/Version-Control.2dd9ab24f5cbc0a6ddd08a92a962959b.svg",
     "static/media/HTML-and-CSS-in-depth.svg": "/first-deploy/static/media/HTML-and-CSS-in-depth.c684832078a2b7cd5fff05d8bcbf1622.svg",
-    "static/media/ATAK_Ecomvision.png": "/first-deploy/static/media/ATAK_Ecomvision.1d0db5d781041a03207a.png",
+    "static/media/atak_ecomvision.png": "/first-deploy/static/media/atak_ecomvision.1d0db5d781041a03207a.png",
     "static/media/cv.pdf": "/first-deploy/static/media/cv.884c37844e8b1938f221.pdf",
     "static/media/movie_app.png": "/first-deploy/static/media/movie_app.abcd02cdcc3209ce9ec5.png",
     "static/media/gradient_generator.png": "/first-deploy/static/media/gradient_generator.4b6b64351483da26db00.png",
     "static/media/weather_app.png": "/first-deploy/static/media/weather_app.7b0d437852cb91ee6adf.png",
+    "static/media/calculator_app.png": "/first-deploy/static/media/calculator_app.0133fcffdc42d99b49c6.png",
     "static/media/wordpress.png": "/first-deploy/static/media/wordpress.a999d3f62780020d5402.png",
-    "static/media/project4.png": "/first-deploy/static/media/project4.920a8a3bc8b4375ab0c6.png",
+    "static/media/coursera_portfolio.png": "/first-deploy/static/media/coursera_portfolio.92d47d4b266cfb321523.png",
     "static/media/todo_app.png": "/first-deploy/static/media/todo_app.d28da72b0789f73ba954.png",
     "static/media/reactjs_tool.png": "/first-deploy/static/media/reactjs_tool.11f31027fcf3f3700bf1.png",
     "static/media/photo_de_profil.jpg": "/first-deploy/static/media/photo_de_profil.f10707d93fa61a605f15.jpg",
@@ -39,15 +40,14 @@
     "static/media/logo1.png": "/first-deploy/static/media/logo1.6ca417d6a2b11bbe0ef7.png",
     "static/media/logoLight.png": "/first-deploy/static/media/logoLight.a9ffb7d4c39c330ad7b0.png",
     "static/media/stripe.png": "/first-deploy/static/media/stripe.7f5528a84916150dec39.png",
-    "static/media/illustrator_tool.png": "/first-deploy/static/media/illustrator_tool.a9be3495f6fc8f43d551.png",
     "static/media/html_tool.png": "/first-deploy/static/media/html_tool.916521afb9e06c3091df.png",
     "index.html": "/first-deploy/index.html",
     "main.94f3438e.css.map": "/first-deploy/static/css/main.94f3438e.css.map",
-    "main.275e7b1d.js.map": "/first-deploy/static/js/main.275e7b1d.js.map",
-    "787.6fa06986.chunk.js.map": "/first-deploy/static/js/787.6fa06986.chunk.js.map"
+    "main.709cd5dc.js.map": "/first-deploy/static/js/main.709cd5dc.js.map",
+    "787.0363f32d.chunk.js.map": "/first-deploy/static/js/787.0363f32d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94f3438e.css",
-    "static/js/main.275e7b1d.js"
+    "static/js/main.709cd5dc.js"
   ]
 }
